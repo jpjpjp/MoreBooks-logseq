@@ -1,0 +1,3 @@
+# More Books
+This is a companion repo to [jpjpjp/repro-logseq-books-query](https://github.com/jpjpjp/repro-logseq-books-query) which is a sample logseq graph to demonstrate a query that consumes a lot of RAM.
+Pages in this repo can be copied to the pages directory of a version of that repo in order to grow the graph to a state that the Logseq Helper (Renderer) process will exceed 4G of RAM on some systems.
